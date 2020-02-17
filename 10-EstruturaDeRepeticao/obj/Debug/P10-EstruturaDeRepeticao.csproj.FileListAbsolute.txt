@@ -1,0 +1,7 @@
+C:\Users\luis.silva\source\repos\AprendendoCSharp\10-EstruturaDeRepeticao\bin\Debug\10-EstruturaDeRepeticao.exe.config
+C:\Users\luis.silva\source\repos\AprendendoCSharp\10-EstruturaDeRepeticao\bin\Debug\10-EstruturaDeRepeticao.exe
+C:\Users\luis.silva\source\repos\AprendendoCSharp\10-EstruturaDeRepeticao\bin\Debug\10-EstruturaDeRepeticao.pdb
+C:\Users\luis.silva\source\repos\AprendendoCSharp\10-EstruturaDeRepeticao\obj\Debug\P10-EstruturaDeRepeticao.csprojAssemblyReference.cache
+C:\Users\luis.silva\source\repos\AprendendoCSharp\10-EstruturaDeRepeticao\obj\Debug\P10-EstruturaDeRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\luis.silva\source\repos\AprendendoCSharp\10-EstruturaDeRepeticao\obj\Debug\10-EstruturaDeRepeticao.exe
+C:\Users\luis.silva\source\repos\AprendendoCSharp\10-EstruturaDeRepeticao\obj\Debug\10-EstruturaDeRepeticao.pdb

@@ -1,0 +1,7 @@
+C:\Users\luis.silva\source\repos\AprendendoCSharp\P12-LacosForEncadeados\bin\Debug\P12-LacosForEncadeados.exe.config
+C:\Users\luis.silva\source\repos\AprendendoCSharp\P12-LacosForEncadeados\bin\Debug\P12-LacosForEncadeados.exe
+C:\Users\luis.silva\source\repos\AprendendoCSharp\P12-LacosForEncadeados\bin\Debug\P12-LacosForEncadeados.pdb
+C:\Users\luis.silva\source\repos\AprendendoCSharp\P12-LacosForEncadeados\obj\Debug\P12-LacosForEncadeados.csprojAssemblyReference.cache
+C:\Users\luis.silva\source\repos\AprendendoCSharp\P12-LacosForEncadeados\obj\Debug\P12-LacosForEncadeados.csproj.CoreCompileInputs.cache
+C:\Users\luis.silva\source\repos\AprendendoCSharp\P12-LacosForEncadeados\obj\Debug\P12-LacosForEncadeados.exe
+C:\Users\luis.silva\source\repos\AprendendoCSharp\P12-LacosForEncadeados\obj\Debug\P12-LacosForEncadeados.pdb
